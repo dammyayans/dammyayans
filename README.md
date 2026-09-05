@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Engineer
 -----------------
 
-I'm a frontend engineer with over four years of professional experience, and I'm passionate about building great user experiences on the web. I've honed my skills over the years and have a range of expertise that includes React, Next, React Native, Typescript, and more. In my work, I always strive to create performant, accessible, and beautiful interfaces that meet the needs of users and exceed their expectations. I'm a problem solver at heart and enjoy working on challenging projects that require creative solutions. When I'm not coding, you can usually find me reading about the latest web technologies, experimenting with new tools. I love collaborating with other developers and learning from their experiences, so don't hesitate to reach out if you'd like to chat!
+I'm a software engineer with over six years of professional experience.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [Linktree](http://linktr.ee/dammyayanss)
 * ✉️  You can contact me at [ayanrindedamilola@gmail.com](mailto:ayanrindedamilola@gmail.com)
-* 🧠  I'm learning Cypress - Fast, easy and reliable web testing for any applications or components that run in a browser.
+* 🧠  I'm currently exploring AI creatifity
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  A football fan and i love playing video games 🙂
+* ⚡  A football fan 🙂
 
 ### Skills
 
