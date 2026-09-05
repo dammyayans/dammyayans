@@ -9,7 +9,7 @@ I'm a software engineer with over six years of professional experience.
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [Linktree](http://linktr.ee/dammyayanss)
 * ✉️  You can contact me at [ayanrindedamilola@gmail.com](mailto:ayanrindedamilola@gmail.com)
-* 🧠  I'm currently exploring AI creatifity
+* 🧠  I'm currently exploring AI creativity
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  A football fan 🙂
 
